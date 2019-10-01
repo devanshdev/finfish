@@ -1,0 +1,1 @@
+const fact = (n) => n===1? return 1: return n*fact(n-1);
